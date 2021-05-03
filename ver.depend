@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618828068 source:c:\users\narde\desktop\verificatpsit\ver\main.cpp
+	<iostream>
+	<fstream>
+
